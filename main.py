@@ -1,5 +1,3 @@
-## Solução de test
-```python
 import itertools
 
 
@@ -32,4 +30,3 @@ if __name__ == "__main__":
     assert result4[0] == 0.0
     assert set(result4[1]) == {4.5, 0.4}
 
-```
